@@ -10,3 +10,4 @@ For fonts use google fonts
 For color https://coolors.co/
 List of Front End resources https://gist.github.com/dypsilon/5819504
 Animation feature typed.js https://github.com/mattboldt/typed.js/
+Bootstrap code snippets https://getbootstrap.com/docs/4.0/getting-started/introduction/
