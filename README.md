@@ -8,3 +8,5 @@ For CSS information check https://css-tricks.com/
 For quick code check use http://jsfiddle.net
 For fonts use google fonts 
 For color https://coolors.co/
+List of Front End resources https://gist.github.com/dypsilon/5819504
+Animation feature typed.js https://github.com/mattboldt/typed.js/
